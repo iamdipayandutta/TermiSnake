@@ -7,7 +7,7 @@ Make sure you have **Python 3** installed on your system.
 
 1. Clone this repository or download the `snake.py` or `snake-remastered.py` file.
 
-   git clone (https://github.com/iamdipayandutta/TermiSnake-.git)
+   git clone (https://github.com/iamdipayandutta/TermiSnake.git)
    
    cd snake-game
 
