@@ -6,7 +6,7 @@ This is a **simple Snake Game** built using **Python** and the **curses** librar
 Make sure you have **Python 3** installed on your system.
 
 1. Clone this repository or download the `snake.py` or `snake-remastered.py` file.
-   git clone [https://github.com/yourusername/snake-game.git](https://github.com/iamdipayandutta/TermiSnake-.git)
+   git clone (https://github.com/iamdipayandutta/TermiSnake-.git)
    cd snake-game
 
 2. Install required dependencies (curses is built-in for Linux/macOS, 
